@@ -1,14 +1,14 @@
-# Hi guys 👋, I'm Phuc!
+# Hi guys 👋, I'm VincentTuannn!
 
-![Profile views](https://komarev.com/ghpvc/?username=nguyenminhphuc15&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=VincentTuannn&color=blue)
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[Exciting Project](https://github.com/nguyenminhphuc15)**
+- 🔭 I’m currently working on **[Exciting Project](https://github.com/VincentTuannn)**
 - 🌱 I’m learning **Software Engineering at SaiGon University**  
   Current GPA: **3.2/4.0**
 - 👯 I’m looking to collaborate on **Open Source Projects and Enterprise Applications**
 - 💬 Ask me about **Web Development, API Design, and Scalable Systems**
-- 📫 How to reach me: [nguyenphucminh880@gmail.com](mailto:nguyenphucminh880@gmail.com)
+- 📫 How to reach me: [vincenttuan1098@gmail.com](mailto:vincenttuan1098@gmail.com)
 - ⚡ Fun fact: **Coding feels better with a playlist! 🎵**
 
 ## 🌟 Skills
@@ -33,6 +33,6 @@
 - 🏆 I’m a big fan of **Esports**!
 
 ## 📫 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ngmiphuc/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/nguyen.phuc.191857/i)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vincenttuan1098/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.quoc.tuan.220704/)
 
